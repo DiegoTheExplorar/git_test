@@ -1,2 +1,3 @@
 # git_test
-Bobby
+This my 2nd first repo
+Hello 
